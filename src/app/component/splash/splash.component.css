@@ -1,0 +1,51 @@
+
+.background {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    background-size: cover;
+    background-position: center; 
+    color: black;
+}
+
+.topleft {
+    position: absolute;
+    top: 0;
+    left: 16px;
+}
+
+.bottomleft {
+    position: absolute;
+    bottom: 0;
+    left: 16px;
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.img {
+    margin-bottom: 10%;
+}
+
+button {
+    height: 75px;
+    width: 200px;
+    font-size: 200%;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: white;
+    color: #48b3c8;
+    border: 2px solid #48b3c8;
+}
+
+.txt_colors {
+    background-color: #48b3c8;
+    color: white;
+}

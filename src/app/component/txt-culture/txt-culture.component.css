@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+    color: white;
+    background-color: #48b3c8;
+    padding: 5%;
+}
+
+.introduction {
+    height: 100%;
+    width: 100%;
+    padding: 21.5%;
+    text-align: center;
+}
+
+.midland {
+    text-align: center;
+    position: relative;
+}
+
+i {
+    color: #48b3c8;
+    font-size: 2.5em;
+}
+
+.pillars {
+    text-align: center;
+}
+
+.leadership {
+    text-align: center;
+    padding: 20%;
+    background-color: 	#D1EDF2;
+}
+
+.academics {
+    text-align: center;
+    padding: 20%;
+    background-color: 	#D1EDF2;
+}
+
+.community {
+    text-align: center;
+    padding: 20%;
+    background-color: 	#D1EDF2;
+}
+
+.technology {
+    text-align: center;
+    padding: 20%;
+    background-color: 	#D1EDF2;
+}

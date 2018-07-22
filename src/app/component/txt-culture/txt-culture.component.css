@@ -1,3 +1,4 @@
+
 .title {
     text-align: center;
     color: white;
@@ -5,47 +6,17 @@
     padding: 5%;
 }
 
-.introduction {
-    height: 100%;
-    width: 100%;
-    padding: 21.5%;
-    text-align: center;
-}
+ .body {
+     display: flex;
+ }
 
-.midland {
-    text-align: center;
-    position: relative;
-}
+ .block {
+     flex: 1;
+     margin: auto;
+     padding: 5%;
+ }
 
-i {
-    color: #48b3c8;
-    font-size: 2.5em;
-}
-
-.pillars {
+ p {
+    padding: 25px;
     text-align: center;
-}
-
-.leadership {
-    text-align: center;
-    padding: 20%;
-    background-color: 	#D1EDF2;
-}
-
-.academics {
-    text-align: center;
-    padding: 20%;
-    background-color: 	#D1EDF2;
-}
-
-.community {
-    text-align: center;
-    padding: 20%;
-    background-color: 	#D1EDF2;
-}
-
-.technology {
-    text-align: center;
-    padding: 20%;
-    background-color: 	#D1EDF2;
-}
+ }

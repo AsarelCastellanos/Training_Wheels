@@ -1,12 +1,43 @@
-.title {
+.wallpaper {
     text-align: center;
     color: white;
-    background-color: #48b3c8;
-    padding: 5%;
+    background-color: #000000;
+    background-image: url('../../../../assets/product_development/problem_statement/lils10.png');
+    background-size: 100%;
+    height: 600px;
 }
 
-.problem{
+.title{
+    background-color: #48b3c8;
+    border-radius: 15px;
+    width: 22%;
+    position: relative;
+    left: 550px;
+    top: -300px;
+    
+    
+}
+.problem {
     text-align: center;
-    padding: 19%;
+    padding: 2%;
     color: #48b3c8;
+}
+h1{
+    font-size: 30px;
+    font-weight: 300;
+}
+.opacityLayer{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.4;
+}
+.problemStatementIcon{
+    position: relative;
+    left: -10px;
+    top: -300px;
+}
+p{
+    font-size: 28px;
+    font-weight: 200;
 }

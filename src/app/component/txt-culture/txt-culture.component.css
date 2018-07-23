@@ -1,5 +1,5 @@
 
-.title {
+.header {
     text-align: center;
     color: white;
     background-color: #48b3c8;
@@ -16,7 +16,78 @@
      padding: 5%;
  }
 
- p {
-    padding: 25px;
+ p{
+    font-size: 28px;
+    font-weight: 200;
     text-align: center;
- }
+    
+}
+.content{
+    color: #48b3c8;
+    padding: 5%;
+}
+ .opacityLayer{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+}
+.wallpaper {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    background-image: url('../../../assets/txt_culture/anthony.JPG');
+    background-size: 100%;
+    height: 600px;
+}
+.wallpaper2 {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    background-image: url('../../../assets/txt_culture/academics.JPG');
+    background-size: 100%;
+    height: 600px;
+}
+.wallpaper3 {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    background-image: url('../../../assets/txt_culture/Jabari.JPG');
+    background-size: 100%;
+    height: 600px;
+}
+.wallpaper4 {
+    text-align: center;
+    color: white;
+    background-color: #000000;
+    background-image: url('../../../assets/txt_culture/lils8.jpg');
+    background-size: 100%;
+    height: 600px;
+}
+.img{
+    
+        position: relative;
+        left: -10px;
+        top: -325px;
+    
+}
+.title{
+    background-color: #48b3c8;
+    border-radius: 15px;
+    width: 22%;
+    position: relative;
+    left: 550px;
+    top: -325px;
+    
+    
+}
+h1{
+    font-size: 30px;
+    font-weight: 300;
+}
+.subtitle{
+    color: white;
+    position: relative;
+    left: -10px;
+    top: -310px;
+}

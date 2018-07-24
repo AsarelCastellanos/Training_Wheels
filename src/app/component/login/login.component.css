@@ -1,20 +1,21 @@
-.txt_colors {
-    background-color: #48b3c8;
-    color: white;
+.container {
+    margin-top: 350px;
+    padding: auto;
 }
 
-.img{
-    margin-bottom: 30px;
-    height: 50%;
-}
-button{
-    margin-top: 20px;
-    margin-bottom: 20px;
-    height: 60px;
-    width: 230px;
+.input
+
+button {
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
     border-radius: 5px;
 }
 
 button:hover {
-    background-color: #2594a9;
+    background-color: white;
+    color: #48b3c8;
+    border: 2px solid #48b3c8;
 }

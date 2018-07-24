@@ -1,7 +1,7 @@
 .title {
     text-align: center;
     color: white;
-    background-color: #48b3c8;
+    background-color: #2594A9;
     padding: 5%;
     display: inline-block;
     width: 100%;
@@ -15,7 +15,7 @@
 
 button {
     color: white;
-    background-color: #48b3c8;
+    background-color: #2594A9;
     height: 75px;
     width: 175px;
     margin-left: 10px;
@@ -28,6 +28,6 @@ button {
 
 button:hover {
     background-color: white;
-    color: #48b3c8;
-    border: 2px solid #48b3c8;
+    color: #2594A9;
+    border: 2px solid #2594A9;
 }
